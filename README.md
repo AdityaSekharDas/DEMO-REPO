@@ -1,4 +1,4 @@
 # DEMO-REPO
 This is my first repo
 <br>
-Author - Aditya Sekhar Das
+Author - Aditya Sekhar Das (GSoC)
